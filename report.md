@@ -1,17 +1,17 @@
 # Mini Lab Report: Algorithm Design Techniques
 
-**Curso:** Algoritmos Avanzados  
-**Actividad:** Actividad 1.1 - Mini-Lab  
-**Fecha:** Septiembre de 2026  
+**Curso:** Advanced Algorithms  
+**Actividad:** Activity 1.1 - Mini-Lab  
+**Fecha:** September 2026  
 **Autor:** Diego Rodríguez Sánchez
 
 ---
 
 ## Report Summary
 This report analices the desing, implementation and evaluation of 3 algorithm problems. Each problem was solved using a different design paradigm depending on the data structure and constraints:
-1. **Problema A (Inversion Counting):** Solved using **Divide & Conquer** ($\mathcal{O}(N \log N)$ time, $\mathcal{O}(N)$ space).
-2. **Problema B (Asignación de Salas de Reunión):** Solved using **Greedy algorithm with Min-Heap** ($\mathcal{O}(M \log M)$ time, $\mathcal{O}(M)$ space).
-3. **Problema C (Plan de Estudio Presupuestado):** Solved using **Dinamic Programing (DP)** with optimization of space 1D (AI recommended)($\mathcal{O}(N \cdot T)$ time, $\mathcal{O}(T)$ space).
+1. **Problem A (Inversion Counting):** Solved using **Divide & Conquer** ($\mathcal{O}(N \log N)$ time, $\mathcal{O}(N)$ space).
+2. **Problem B (Meeting Assignation):** Solved using **Greedy algorithm with Min-Heap** ($\mathcal{O}(M \log M)$ time, $\mathcal{O}(M)$ space).
+3. **Problem C (Study Plan Budget):** Solved using **Dinamic Programing (DP)** with optimization of space 1D (AI recommended)($\mathcal{O}(N \cdot T)$ time, $\mathcal{O}(T)$ space).
 
 ---
 
